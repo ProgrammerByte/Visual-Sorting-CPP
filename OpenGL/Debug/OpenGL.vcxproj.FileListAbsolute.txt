@@ -1,0 +1,2 @@
+C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\Debug\Visual Sorting.exe
+C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\Debug\Visual Sorting.pdb

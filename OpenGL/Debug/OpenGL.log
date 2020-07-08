@@ -1,0 +1,8 @@
+﻿  Algorithm.cpp
+  Application.cpp
+C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\src\Application.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\src\Application.cpp(59,17): warning C4305: '*=': truncation from 'double' to 'float'
+  RadixSort.cpp
+C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\src\RadixSort.cpp(48,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Visual Sorting\OpenGL\Debug\Visual Sorting.exe
